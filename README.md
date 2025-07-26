@@ -27,5 +27,9 @@ A smart, AI-powered desktop assistant that can interact with users via natural l
 
 ---
 
+## 🧑‍💻 Collaborator: [Gudipati Sri Vibhavan]
+I co-initiated this project and actively contributed to its development alongside the project owner. From ideation through implementation, I was involved in designing core functionalities and integrating various components (NLP, music playback, and web search). I collaborated consistently until my graduation, after which I formally handed over the project to the current maintainer.
+
+
 
 
